@@ -1,2 +1,3 @@
 # DASB
-Assignment in R
+Assignment in R. For details see "Sechseläuten_Assignment"
+
